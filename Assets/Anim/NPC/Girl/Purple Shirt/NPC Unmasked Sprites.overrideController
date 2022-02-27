@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NPC Unmasked Sprites
+  m_Controller: {fileID: 9100000, guid: 9c36dc69f0a1d18418564446041876f7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0a838822974418a44a50c5036705851d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6f77733b19880f14fbf7ee8bf1ecd3b0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0c1b1b169a37a9f409bc90aa319395dc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 45822f084eb24194cbc3e86fc31f6163, type: 2}
